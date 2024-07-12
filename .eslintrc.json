@@ -10,7 +10,8 @@
       "sourceType": "module"
     },
     "rules": {
-      "no-new": 0
+      "no-new": 0,
+      "no-console": "off"
     },
     
     "settings": {
